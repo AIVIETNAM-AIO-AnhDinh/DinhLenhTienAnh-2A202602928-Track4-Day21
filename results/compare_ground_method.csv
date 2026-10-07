@@ -1,0 +1,4 @@
+voxel_size,distance_threshold,eps,min_points,ground_method,ransac_impl,frames_not_reproducible_5_runs,frames,clusters_per_frame,median_cluster_bev_area_m2,nearest_obstacle_median_m,gt_total,recall_all,recall_small,recall_vehicle,cluster_precision_vs_gt,merged_clusters,split_gt,low_pts_kept_pct,flat_clusters_per_frame,frames_nearest_is_flat,latency_total_p50_ms,latency_total_p95_ms,latency_core_p50_ms,latency_core_p95_ms,latency_samples
+0.1,0.2,0.5,5,plane,numpy,0,20,41.2,0.4764,5.5572,89,1.0,1.0,1.0,0.1335,7,24,43.1373,2.15,1,17.4578,20.4973,10.5431,12.5449,400
+0.1,0.2,0.5,5,plane,open3d,13,20,42.95,0.4763,5.5572,89,1.0,1.0,1.0,0.1234,7,24,37.8378,2.5,0,13.0864,16.3215,6.0151,8.1385,400
+0.1,0.2,0.5,5,zones,numpy,0,20,41.75,0.4373,5.5572,89,1.0,1.0,1.0,0.1329,13,27,45.2381,1.4,0,20.1809,23.1892,12.9932,15.3545,400

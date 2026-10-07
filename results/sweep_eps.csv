@@ -1,0 +1,6 @@
+voxel_size,distance_threshold,eps,min_points,ground_method,ransac_impl,frames,clusters_per_frame,median_cluster_bev_area_m2,nearest_obstacle_median_m,gt_total,recall_all,recall_small,recall_vehicle,cluster_precision_vs_gt,merged_clusters,split_gt,low_pts_kept_pct,flat_clusters_per_frame,frames_nearest_is_flat,latency_total_p50_ms,latency_total_p95_ms,latency_core_p50_ms,latency_core_p95_ms,latency_samples
+0.1,0.2,0.2,5,plane,numpy,20,83.05,0.0763,5.5572,89,0.9213,0.9048,0.9265,0.1644,7,63,43.1373,0.25,0,17.43,21.1299,9.6196,11.7982,400
+0.1,0.2,0.3,5,plane,numpy,20,66.35,0.1925,5.5572,89,1.0,1.0,1.0,0.1402,5,48,43.1373,1.75,1,17.7232,20.7485,10.0846,12.2652,400
+0.1,0.2,0.5,5,plane,numpy,20,41.2,0.4764,5.5572,89,1.0,1.0,1.0,0.1335,7,24,43.1373,2.15,1,17.538,20.4907,10.5615,12.7243,400
+0.1,0.2,0.8,5,plane,numpy,20,27.7,1.0317,5.5572,89,1.0,1.0,1.0,0.1552,7,10,43.1373,1.65,2,19.0765,23.0851,12.467,15.414,400
+0.1,0.2,1.2,5,plane,numpy,20,19.7,1.6049,5.5572,89,1.0,1.0,1.0,0.1827,9,3,43.1373,1.25,1,22.325,27.4812,15.2975,20.5973,400
