@@ -2,7 +2,7 @@
 
 - **Họ tên:** Dinh Lenh Tien Anh
 - **MSSV:** 2A202602928 (phải trùng với MSSV trong tên repo `<HoVaTen>-<MSSV>-Track4-Day21`)
-- **Lớp:** [ĐIỀN]
+- **Lớp:** K4-Track4-H209
 - **Link repo:** https://github.com/AIVIETNAM-AIO-AnhDinh/DinhLenhTienAnh-2A202602928-Track4-Day21
 - **Topic:** D — Robot/drone obstacle (voxel downsample → RANSAC ground → DBSCAN → box)
 - **Dataset:** data/kitti_mini (thí nghiệm chính), data/nuscenes_mini_subset (so sánh 32 beam), data/synthetic (debug)
